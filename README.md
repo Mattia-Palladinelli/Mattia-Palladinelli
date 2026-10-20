@@ -54,8 +54,17 @@ Here are some ideas to get you started:
   <p>Active development and architectural research.</p>
 </div>
 
-> **[ Nome Progetto ]**  
-> _Brief one-line description of the system you are building (e.g., A POSIX-compliant interactive shell handling process forks and signals)._  
+> **[ Future Project ]**  
+> Description
+
+> `[ Link to Repository ]`
+> **[ Future Project ]**  
+> Description
+
+> `[ Link to Repository ]`
+> **[ Future Project ]**  
+> Description
+
 > `[ Link to Repository ]`
 
 <br>
