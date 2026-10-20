@@ -17,10 +17,18 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-    # Mattia Palladinelli
-    **Computer Science**
+  <h1>Mattia Palladinelli</h1>
+  
+  <code>whoami</code> ➔ <b>Computer Science Undergraduate @ Univaq</b><br>
+  <code>objective</code> ➔ <b>Linux Systems Engineering</b><br>
+  
+  <br>
+  
+  <i>Exploring the space between hardware execution and software abstractions.</i>
 
-    ---
+<br><br>
+
+---
 
 </div>
 
