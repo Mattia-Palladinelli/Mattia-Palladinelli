@@ -55,15 +55,15 @@ Here are some ideas to get you started:
 </div>
 
 > **[ Future Project ]**  
-> Description
+> _Description_
 > `[ Link to Repository ]`
 
 > **[ Future Project ]**  
-> Description
+> _Description_
 > `[ Link to Repository ]`
 
 > **[ Future Project ]**  
-> Description
+> _Description_
 > `[ Link to Repository ]`
 
 <br>
