@@ -56,15 +56,14 @@ Here are some ideas to get you started:
 
 > **[ Future Project ]**  
 > Description
-
 > `[ Link to Repository ]`
+
 > **[ Future Project ]**  
 > Description
-
 > `[ Link to Repository ]`
+
 > **[ Future Project ]**  
 > Description
-
 > `[ Link to Repository ]`
 
 <br>
